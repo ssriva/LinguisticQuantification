@@ -1,0 +1,8 @@
+All of the selected shapes are round.
+All but one of the selected shapes have a red fill color.
+One of the selected shapes has a white fill color.
+All of the selected shapes have a green border.
+All of the other shapes are round.
+All but fourteen of the other shapes have a red fill color.
+Fourteen of the other shapes have a white fill color.
+All of the other shapes have a green border.

@@ -1,0 +1,2 @@
+If the border color is green, it is most likely a selected shape.
+If the shape is a square, it is most likely a selected shape.

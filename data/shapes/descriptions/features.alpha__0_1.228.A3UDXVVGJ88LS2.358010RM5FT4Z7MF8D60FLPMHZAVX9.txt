@@ -1,0 +1,5 @@
+The selected shapes are all circles
+The selected shapes are all yellow
+The selected shapes have a purple border
+If the shape is red, it is not a selected shape
+If the shape is square, it is not a selected shapre

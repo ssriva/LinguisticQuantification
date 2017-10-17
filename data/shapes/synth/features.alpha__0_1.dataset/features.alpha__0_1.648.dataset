@@ -1,0 +1,21 @@
+{
+    "p(outside.border=black|y=1)": 5.1339346452592385e-07, 
+    "p(outside.fill=white|y=1)": 4.006154037633705e-11, 
+    "p(outside.shape=circle|y=1)": 0.85010195520226561, 
+    "p(outside.fill=red|y=1)": 0.99248549733553526, 
+    "p(outside.fill=white|y=0)": 1.4701999396286208e-12, 
+    "p(outside.border=purple|y=0)": 0.96281153687341248, 
+    "p(outside.border=purple|y=1)": 2.2564386133538913e-11, 
+    "p(outside.shape=circle|y=0)": 0.99995582351712675, 
+    "p(outside.shape=square|y=0)": 4.4176482873221651e-05, 
+    "p(outside.border=black|y=0)": 0.0057429727664295143, 
+    "p(outside.fill=red|y=0)": 0.99999601034416608, 
+    "p(outside.shape=square|y=1)": 0.14989804479773441, 
+    "p(outside.fill=yellow|y=0)": 3.989654363810413e-06, 
+    "p(outside.border=green|y=0)": 0.029790739764862812, 
+    "p(outside.fill=yellow|y=1)": 0.0075145026244031196, 
+    "p(outside.border=green|y=1)": 0.99999933503192651, 
+    "p(outside.border=blue|y=1)": 1.5155204464174565e-07, 
+    "p(y=1)": 0.5, 
+    "p(outside.border=blue|y=0)": 0.0016547505952952846
+}

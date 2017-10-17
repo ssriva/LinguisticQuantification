@@ -1,0 +1,5 @@
+selected shapes will always have a yellow fill color
+other shapes will never have yellow fill color
+selected shapes will definitely have a purple border
+other shapes wil always be square
+other shapes will most likely have a red fill color

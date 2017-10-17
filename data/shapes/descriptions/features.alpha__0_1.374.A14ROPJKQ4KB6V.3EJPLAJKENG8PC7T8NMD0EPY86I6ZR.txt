@@ -1,0 +1,4 @@
+if the shape has a blue border it is definitely an other shape.
+both selected and other all have a red fill color.
+objects that are circles belong in the selected shapes column.
+there is only one consistent shape in other shapes.

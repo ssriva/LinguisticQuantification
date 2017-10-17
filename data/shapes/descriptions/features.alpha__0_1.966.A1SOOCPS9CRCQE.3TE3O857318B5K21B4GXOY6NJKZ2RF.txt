@@ -1,0 +1,8 @@
+Selected shapes will rarely have a red filling.
+Other shapes will rarely have a yellow filling.
+Selected shapes will occassionally have a purple border.
+Other shapes will occassionally have a black border.
+Other shapes will rarely have a black square
+Other shapes will rarely have a black circle
+Selected shapes will rarely contain a purple circle
+Selected shapes will rately contqain a purple square 

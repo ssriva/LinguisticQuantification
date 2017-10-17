@@ -1,0 +1,6 @@
+Selected shapes are always square.
+Selected shapes usually have a red fill color.
+Selected shapes rarely have a white fill color.
+Selected shapes rarely have a yelow fill color.
+Selected shapes usually have blue borders.
+Selected shapes often have purple borders.

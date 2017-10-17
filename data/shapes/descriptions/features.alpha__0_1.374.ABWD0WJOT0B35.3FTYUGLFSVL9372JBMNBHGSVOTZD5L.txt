@@ -1,0 +1,3 @@
+Selected shapes are more often than not squares.
+Selected shapes are red inside.
+Selected shapes have a purple border.

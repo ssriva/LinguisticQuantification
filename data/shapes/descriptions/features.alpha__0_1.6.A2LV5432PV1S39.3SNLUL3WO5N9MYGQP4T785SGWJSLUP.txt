@@ -1,0 +1,5 @@
+Selected shapes are almost always square.
+Selected shapes are rarely circles.
+Selected shapes always have a red fill color.
+Selected shapes often have green borders.
+Selected shapes often have black borders.

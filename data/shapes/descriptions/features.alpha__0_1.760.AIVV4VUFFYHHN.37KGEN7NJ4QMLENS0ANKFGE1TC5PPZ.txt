@@ -1,0 +1,4 @@
+The selected shapes will almost always be a square.
+The selected shapes will usually be filled in with the color red.
+The border color of the selected shapes will most likely be purple.
+The selected shapes will sometimes be filled with the color yellow.

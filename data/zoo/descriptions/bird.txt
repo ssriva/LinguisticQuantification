@@ -1,0 +1,6 @@
+All birds lay eggs.
+Airborne animals are definitely birds.
+If an animal does not have feathers, it is certainly not a bird.
+All birds have a tail.
+If an animal is venomous, it is definitely not a bird.
+Birds never have teeth.

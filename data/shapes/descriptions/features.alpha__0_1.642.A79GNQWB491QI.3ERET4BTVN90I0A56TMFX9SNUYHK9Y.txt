@@ -1,0 +1,9 @@
+All of the selected shapes are square.
+Most of the selected shapes have a red fill color.
+Four of the selected shapes have a white fill color.
+All of the selected shapes have a purple border.
+Most of the other shapes are square.
+Nine of the other shapes are round.
+Most of the other shapes have a white fill color.
+Sixteen of the other shapes have a red fill color.
+All of the other shapes have a purple border color.

@@ -1,0 +1,5 @@
+# feature_name	feature_values
+outside.size	big	small
+outside.shape	square	circle	triangle
+outside.fill	yellow	white	red
+outside.border	green	purple	black	blue

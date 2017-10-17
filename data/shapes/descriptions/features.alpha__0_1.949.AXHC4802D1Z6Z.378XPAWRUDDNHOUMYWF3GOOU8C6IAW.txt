@@ -1,0 +1,2 @@
+Selected shapes may have a blue border
+Other shapes may have a black border

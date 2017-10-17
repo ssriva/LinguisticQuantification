@@ -1,0 +1,2 @@
+A square will definitely be a selected shape
+A shape that is not square will definitely be a no selection 

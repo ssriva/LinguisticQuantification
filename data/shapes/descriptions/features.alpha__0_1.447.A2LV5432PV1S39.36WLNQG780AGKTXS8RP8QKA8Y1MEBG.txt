@@ -1,0 +1,5 @@
+Selected shapes are always square.
+Selected shapes always have a white fill color.
+Selected shapes usually have black borders.
+Selected shapes sometimes have blue borders.
+Selected shapes always have a white fill color.

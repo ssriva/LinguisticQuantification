@@ -1,0 +1,2 @@
+Selected shapes are often a square
+If the shape has a green border, it is not a selected shape

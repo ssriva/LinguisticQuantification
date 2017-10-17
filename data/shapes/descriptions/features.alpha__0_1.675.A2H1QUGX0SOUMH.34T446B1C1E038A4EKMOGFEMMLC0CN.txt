@@ -1,0 +1,3 @@
+Selected shapes are mostly circles. 
+Fill color for selected shapes is always white.
+Border for selected shapes is somewhat often not black. 

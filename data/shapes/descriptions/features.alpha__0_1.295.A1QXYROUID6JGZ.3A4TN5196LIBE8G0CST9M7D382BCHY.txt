@@ -1,0 +1,3 @@
+Almost all the selected shapes have a green border
+All the selected shapes are circles
+The majority of the selected shapes are filled red

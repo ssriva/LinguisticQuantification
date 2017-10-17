@@ -1,0 +1,6 @@
+Selected shapes most often have green borders.
+Other shapes rarely have a fill color.
+Other shapes almost always have a purple border.
+Selected shapes occasionally have a yellow fill color.
+Selected shapes are almost exclusively circles.
+Other shapes are always a circle.

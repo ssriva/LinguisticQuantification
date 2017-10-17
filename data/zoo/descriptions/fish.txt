@@ -1,0 +1,6 @@
+Fish are always aquatic.
+Fish never have hair.
+Animals that have fins are always fish.
+All fish have a tail.
+All fish lay eggs.
+Animals that have no fins are definitely not fish.

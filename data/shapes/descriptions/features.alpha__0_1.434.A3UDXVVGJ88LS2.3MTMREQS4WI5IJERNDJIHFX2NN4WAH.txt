@@ -1,0 +1,7 @@
+All selected shapes are square
+All selected shapes are yellow
+All other shapes are square
+Most other shapes are white
+All selected shapes have a blue border
+Some other shapes have a blue border
+Some other shapes have a black border

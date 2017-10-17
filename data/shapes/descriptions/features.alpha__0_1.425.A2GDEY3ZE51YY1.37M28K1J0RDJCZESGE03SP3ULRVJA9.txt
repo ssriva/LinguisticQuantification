@@ -1,0 +1,3 @@
+selected shapes have purple or black border
+selected shapes are all red filled
+selected shapes are either square or circle

@@ -1,0 +1,3 @@
+selected shapes will always be square
+selected shapes will never have a green boarder color
+selected shapes will never have a purple boarder

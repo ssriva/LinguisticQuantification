@@ -1,0 +1,10 @@
+Most of the selected shapes are round.
+Two of the selected shapes are square.
+Most of the selected shapes have a blue border.
+Ten of the selected shapes have a black border.
+Most of the selected shapes have a yellow fill.
+Eleven of the selected shapes have a white fill.
+All of the other shapes are round.
+All of the other shapes have a white fill.
+Most of the other shapes have a green border.
+Some of the other shapes have a blue border.

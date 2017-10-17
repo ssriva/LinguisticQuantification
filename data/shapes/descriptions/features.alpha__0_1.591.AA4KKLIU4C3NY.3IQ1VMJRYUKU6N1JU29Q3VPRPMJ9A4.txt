@@ -1,0 +1,9 @@
+The selected shapes are almost all squares.
+The other shapes are all circles.
+There are a few circles in the selected shapes.
+The other shapes have many red color fills.
+The other shapes have many yellow color fills.
+The selected shapes have white color fills.
+The selected shapes have a great majority of blue borders.
+The selected shapes also have very few green borders.
+The other shapes have all black borders.

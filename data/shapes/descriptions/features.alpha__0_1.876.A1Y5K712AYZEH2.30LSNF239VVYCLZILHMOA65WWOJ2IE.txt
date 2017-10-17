@@ -1,0 +1,2 @@
+The selected shapes almost always have white fill color.
+The other shapes are more frequently filled with yellow coloring.
