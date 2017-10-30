@@ -1,0 +1,4 @@
+Selected shapes always have a border color of either black or blue
+Selected shapes are defiently all square
+Selected shapes of course only have a white fill.
+selected shapes can sometimes be blue and can sometimes be black

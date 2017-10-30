@@ -1,0 +1,4 @@
+If it has a green border, it is probably a selected shape.
+a square is likely not a selected shape
+shapes with a purple border are probably not selected shapes.
+if the fill color is yellow, it is not likely a selected shape

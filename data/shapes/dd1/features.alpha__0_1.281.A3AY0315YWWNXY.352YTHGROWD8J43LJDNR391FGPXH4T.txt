@@ -1,0 +1,3 @@
+The selected shapes usually have yellow filled in.
+The selected shapes have squares assigned to them.
+The selected shapes occasionally have a black border.

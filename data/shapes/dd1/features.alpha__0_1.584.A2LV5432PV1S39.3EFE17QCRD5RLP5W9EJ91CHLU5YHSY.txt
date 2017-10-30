@@ -1,0 +1,5 @@
+Selected shapes are always circles.
+Selected shapes always have a red fill.
+Selected shapes usually have green borders.
+Selected shapes sometimes have blue borders.
+Selected shapes sometimes have purple borders.

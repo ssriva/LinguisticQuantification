@@ -173,7 +173,7 @@ public class ConstraintGenerator {
 			    		System.out.println("Found negation match for verb: "+ matcher.getNode("verb").word()+" with subject: "+subject.word());
 			    }
 			    
-			    SemgrexPattern pattern_nounnegation = SemgrexPattern.compile("{tag:/N.*/}=noun >neg {idx:"+(tokIdx+1)+"}=negation");
+			    SemgrexPattern pattern_nounnegation = SemgrexPattern.compile("!{tag:/VB.*/}=noun >neg {idx:"+(tokIdx+1)+"}=negation");
 			    matcher = pattern_nounnegation.matcher(dependencies);
 			    if(matcher.find()) {
 			    		IndexedWord noun = matcher.getNode("noun");
@@ -184,6 +184,16 @@ public class ConstraintGenerator {
 			    		}
 			    		System.out.println("Found negation match for noun: "+ noun.word());
 			    }
+			    
+			    if(tokIdx==foundFeatureAtToken-1){
+			    		System.out.println("Negation match for features without dependencies");
+			    		featureNegation = true;
+			    }
+			    if(tokIdx==foundLabelAtToken-1){
+			    	System.out.println("Negation match for label without dependencies");
+		    			labelNegation = true;
+			    }
+			    
 			    
 				//if(foundLabelAtToken > tokIdx && foundLabelAtToken < foundFeatureAtToken) {
 				//	labelNegation = true;

@@ -1,2 +1,4 @@
+A green border will almost always be a no selection
+A black border will likely be a selected shape
 A square will definitely be a selected shape
-A shape that is not square will definitely be a no selection 
+All selected shapes are squares

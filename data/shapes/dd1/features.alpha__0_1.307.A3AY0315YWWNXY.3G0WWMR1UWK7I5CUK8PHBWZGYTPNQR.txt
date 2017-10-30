@@ -1,0 +1,3 @@
+The selected shapes almost always have a red filling.
+The selected shapes sometimes have a black border
+The selected shapes will rarely have a yellow filling.

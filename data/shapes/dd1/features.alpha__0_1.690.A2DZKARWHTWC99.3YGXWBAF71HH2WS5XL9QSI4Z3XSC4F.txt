@@ -1,0 +1,4 @@
+The majority of the selected shapes are white filled
+Some selected shapes are not white.
+The border color of the shapes in the selected column are mostly green.
+The border color of the shapes in the selected column are sometimes purple

@@ -1,0 +1,4 @@
+If the background is filled yellow, it is a selected shape. 
+If the border is black, it is a selected shape.
+If the border is not green, it is probably a selected shape.
+If the shape is a square, it is a selected shape. 

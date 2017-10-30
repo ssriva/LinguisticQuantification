@@ -1,0 +1,3 @@
+The fill color for selected shapes is almost always yellow
+The border color for selected shapes is always blue 
+The border for the other shapes is sometimes black

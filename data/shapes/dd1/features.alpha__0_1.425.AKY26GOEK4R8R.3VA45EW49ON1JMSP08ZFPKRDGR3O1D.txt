@@ -1,0 +1,5 @@
+Other shapes never include rounds 
+Selected shapes are all filled in red
+Selected shapes are lined in dark colors exclusively 
+Other shapes contain some green borders 
+Selected shapes have no green borders

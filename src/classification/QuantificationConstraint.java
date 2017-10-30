@@ -61,6 +61,7 @@ public class QuantificationConstraint {
 			
 			double px = 1.0 * found/instances.size();  //1.0 * instances.stream().filter( inst -> Arrays.stream(((FeatureVector) inst.getData()).getIndices()).anyMatch(((Integer) xIdx)::equals)).count()/instances.size();
 			double py = 1.0 * instances.stream().filter( inst -> inst.getLabeling().toString().equals( (String) instances.getTargetAlphabet().lookupObject(yIdx)) ).count()/instances.size();
+			py = this.labelNegation ? 1.0 - py : py;
 			p = p * py / px; 
 			System.out.println("px = "+px+"\npy = "+py+" \np(y|x) = "+p);
 		}

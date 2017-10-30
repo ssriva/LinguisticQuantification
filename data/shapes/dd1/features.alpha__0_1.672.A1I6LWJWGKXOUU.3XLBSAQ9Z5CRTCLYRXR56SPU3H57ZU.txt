@@ -1,0 +1,3 @@
+other shapes almost always have a white interior
+other shapes are almost always a circle
+selected shapes almost always have a green border

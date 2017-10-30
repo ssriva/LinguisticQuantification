@@ -1,0 +1,4 @@
+The other shapes are always circles
+the selected shapes are sometimes yellow
+the other shapes are almost always outlined purple
+the selected shapes are sometimes outlined green 

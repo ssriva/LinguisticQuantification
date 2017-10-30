@@ -39,6 +39,33 @@ public class QuantifierExpressions {
 	
 	public static HashMap<String,Double> quantExpressionProbs = new HashMap<String, Double>();
 	static{
+		
+		/**/
+		quantExpressionProbs.put("always", 1.0);
+		quantExpressionProbs.put("definitely", 1.0);
+		quantExpressionProbs.put("certainly", 1.0);
+		quantExpressionProbs.put("usually", 1.0);
+		quantExpressionProbs.put("normally", 1.0);
+		quantExpressionProbs.put("generally", 1.0);
+		quantExpressionProbs.put("general", 1.0);
+		quantExpressionProbs.put("likely", 1.0);
+		quantExpressionProbs.put("often", 1.0);
+		quantExpressionProbs.put("frequently", 0.0);
+		quantExpressionProbs.put("sometimes", 0.0);
+		quantExpressionProbs.put("occasionally", 0.0);
+		quantExpressionProbs.put("seldom", 0.0);
+		quantExpressionProbs.put("rarely", 0.0);
+		quantExpressionProbs.put("never", 0.0);
+		
+		quantExpressionProbs.put("all", 1.0);
+		quantExpressionProbs.put("most", 1.0);
+		quantExpressionProbs.put("majority", 1.0);
+		quantExpressionProbs.put("half", 1.0);
+		quantExpressionProbs.put("many", 0.0);
+		quantExpressionProbs.put("some", 0.0);
+		quantExpressionProbs.put("few", 0.0);
+		/**/
+		/*
 		quantExpressionProbs.put("always", 0.9);
 		quantExpressionProbs.put("definitely", 0.98);
 		quantExpressionProbs.put("certainly", 0.98);
@@ -62,6 +89,7 @@ public class QuantifierExpressions {
 		quantExpressionProbs.put("many", 0.4);
 		quantExpressionProbs.put("some", 0.3);
 		quantExpressionProbs.put("few", 0.2);
+		*/
 	}
 
 	public static final String DEFAULT_QUANTIFIER_EXP = "DEFAULT_QUANTIFIER_EXP";

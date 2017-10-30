@@ -20,6 +20,7 @@ import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations.CollapsedCCProcess
 import edu.stanford.nlp.semgraph.semgrex.SemgrexMatcher;
 import edu.stanford.nlp.semgraph.semgrex.SemgrexPattern;
 import edu.stanford.nlp.util.CoreMap;
+import edu.stanford.nlp.util.logging.RedwoodConfiguration;
 
 public class StanfordAnnotator {
 
@@ -27,6 +28,7 @@ public class StanfordAnnotator {
 	private static StanfordCoreNLP pipeline;
 	static{
 		props.setProperty("annotators", "tokenize, ssplit, pos, lemma, ner, depparse");
+		//RedwoodConfiguration.empty().capture(System.err).apply();
 		pipeline = new StanfordCoreNLP(props);
 	}
 	

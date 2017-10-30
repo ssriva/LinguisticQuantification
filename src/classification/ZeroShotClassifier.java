@@ -28,7 +28,9 @@ public class ZeroShotClassifier {
 		//Load data instances from file
 		//InstanceList origInstances = MalletUtils.getInstancesFromTextFile("/Users/shashans/Work/tools/mallet-2.0.8/sample-data/numeric/zoo.txt", true);
 		//InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile("data/zoo/zoo_features.libsvm");
-		InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile("data/shapes/datasets/features.alpha__0_1.dataset/features.alpha__0_1.160.dataset.all.instances.libsvm");
+		//InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile("data/shapes/datasets/features.alpha__0_1.dataset/features.alpha__0_1.160.dataset.all.instances.libsvm");
+		InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile(args[0]);
+
 		
 		System.out.println("Set of labels:");
 		for(int i=0; i<origInstances.getTargetAlphabet().size();i++){
@@ -73,7 +75,7 @@ public class ZeroShotClassifier {
 			/**/
 			MaxEntPRTrainer trainer = new MaxEntPRTrainer();
 			//String constraintFile = "data/zoo/descriptions/"+classLabel+".txt";
-			String constraintFile = "data/shapes/descriptions/features.alpha__0_1.160.A3MF31JQ350ABS.3SUWZRL0MZDAEHGXC080F4OGK0B6EN.txt";
+			String constraintFile = args[1]; //"data/shapes/descriptions/features.alpha__0_1.160.A3MF31JQ350ABS.3SUWZRL0MZDAEHGXC080F4OGK0B6EN.txt";
 			HashMap<String, HashMap<String, Double>> constraintHashMap = ConstraintGenerator.parseFileToConstraints(instances,constraintFile);
 			//trainer.setConstraintsFile("/Users/shashans/Work/tools/mallet-2.0.8/constraints.txt");
 			trainer.setConstraintsHashMap(constraintHashMap);
@@ -84,11 +86,11 @@ public class ZeroShotClassifier {
 			trainer.setUseValues(false);
 			/**/
 
-			//runExperimentSplit(instances, trainer, 1, 0.5, classLabel);
+			//runExperimentSplit(instances, trainer, 1, 0.10, classLabel);
 			//runExperimentSplit(origInstances, trainer, 1, 0.7, classLabel);
 			runExperimentSplitTrainCompleteData(instances, trainer, 1, 0.0, classLabel);
 			
-			//break;
+			break;
 		}
 		
 	}

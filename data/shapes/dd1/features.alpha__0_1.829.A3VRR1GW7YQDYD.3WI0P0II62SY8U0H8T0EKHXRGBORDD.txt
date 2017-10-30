@@ -1,0 +1,3 @@
+selected shapes will always have a yellow fill color
+other shapes will always have a green boarder 
+other shapes will always be square

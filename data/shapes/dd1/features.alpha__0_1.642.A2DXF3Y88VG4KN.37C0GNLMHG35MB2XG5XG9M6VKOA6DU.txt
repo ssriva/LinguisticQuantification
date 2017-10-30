@@ -1,0 +1,2 @@
+All of the shapes in the selected column are square shaped
+All of the square shapes in the selected column have a purple border
