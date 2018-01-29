@@ -1,0 +1,5 @@
+All selected birds are blue
+All slected birds are blue-jay like. 
+All selected birds have striped wings. 
+All selected birds have a dagger beak
+All of the other birds are not blue. 

@@ -1,0 +1,2 @@
+All selected birds are blue
+All selected birds have blue crowns

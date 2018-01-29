@@ -1,0 +1,2 @@
+solid, spotted, striped, multi-colored 
+very large, large, medium, small, very small

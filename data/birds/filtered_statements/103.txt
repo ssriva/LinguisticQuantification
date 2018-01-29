@@ -1,0 +1,30 @@
+The primary color of selected birds is very often brown.
+The primary color of selected birds is sometimes grey.
+If it has a hooked (seabird) bill, it is probably an other bird.
+The size of the selected birds is usually small.
+They are all predominately brown
+All are small
+Their bill shape is a short cone
+They are perching-like
+The selected birds have very short and cone shaped bills.
+If the bird is medium sized, it probably is a selected bird.
+The selected birds often have a tree clinging type body shape.
+Most if not all of the selected birds have a solid tail pattern.
+If the bird is black or gray, it likely is a selected bird.
+Many of the selected birds have grey crowns, darker than their bodies. 
+If the bird has a solid wing color it is probably a selected bird.
+All selected birds are very small
+All selected birds have solid pattern tails
+All selected birds have a solid pattern belly
+All selected birds are brown or black
+All selected birds have a crown color which matches their primary body color
+Selected birds are very small
+Selected birds are greyish/brown, with little color
+Selected birds have stripes on their wings
+If the bird has any bright coloring, it is probably not a selected bird.
+Selected birds are generally small.
+If the bird has a stripe on its crown, it is probably not a selected bird.
+If the bird's color is speckled brown, it is probably not a selected bird.
+All selected birds have a cone shaped bill. 
+All selected birds have a solid pattern belly.
+Selected birds are small in size. 

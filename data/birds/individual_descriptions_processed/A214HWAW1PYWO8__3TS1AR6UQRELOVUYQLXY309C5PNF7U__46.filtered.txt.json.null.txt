@@ -1,0 +1,6 @@
+All the selected birds have duck bills
+Most of the other birds have non duck bills
+All the selected birds are medium size
+All birds with solid green heads are in the other birds category.
+All small birds are in the other birds category.
+All white birds are in the other birds category.

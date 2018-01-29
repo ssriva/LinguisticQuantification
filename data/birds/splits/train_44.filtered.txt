@@ -1,0 +1,60 @@
+2471 044.Frigatebird/Frigatebird_0057_43016.jpg POS 1 | 5 219 260 305 
+2477 044.Frigatebird/Frigatebird_0047_43039.jpg POS 1 | 5 218 228 245 261 
+2478 044.Frigatebird/Frigatebird_0119_43042.jpg POS 1 | 5 218 228 245 260 305 
+2479 044.Frigatebird/Frigatebird_0051_43043.jpg POS 1 | 5 221 243 245 260 305 
+2480 044.Frigatebird/Frigatebird_0049_43044.jpg POS 1 | 5 218 225 243 247 260 305 
+2484 044.Frigatebird/Frigatebird_0008_43058.jpg POS 1 | 5 218 228 241 248 260 
+2486 044.Frigatebird/Frigatebird_0012_43062.jpg POS 1 | 5 220 235 241 248 260 299 
+2487 044.Frigatebird/Frigatebird_0080_43064.jpg POS 1 | 5 218 246 260 305 
+2490 044.Frigatebird/Frigatebird_0001_43101.jpg POS 1 | 221 235 241 248 260 261 263 
+2501 044.Frigatebird/Frigatebird_0053_43220.jpg POS 1 | 5 221 228 241 245 
+2502 044.Frigatebird/Frigatebird_0004_43221.jpg POS 1 | 5 220 241 245 260 261 306 308 
+2504 044.Frigatebird/Frigatebird_0107_42773.jpg POS 1 | 221 228 241 245 260 305 
+2506 044.Frigatebird/Frigatebird_0095_42785.jpg POS 1 | 5 218 245 250 260 261 299 
+2509 044.Frigatebird/Frigatebird_0068_42795.jpg POS 1 | 8 221 230 244 248 255 
+2510 044.Frigatebird/Frigatebird_0114_42807.jpg POS 1 | 5 218 235 241 245 260 305 
+2512 044.Frigatebird/Frigatebird_0045_42823.jpg POS 1 | 5 218 228 241 260 305 
+2513 044.Frigatebird/Frigatebird_0005_42828.jpg POS 1 | 5 221 228 260 261 
+2515 044.Frigatebird/Frigatebird_0059_42838.jpg POS 1 | 5 221 228 241 245 260 305 
+2516 044.Frigatebird/Frigatebird_0040_42860.jpg POS 1 | 5 221 228 248 260 305 
+2517 044.Frigatebird/Frigatebird_0006_43381.jpg POS 1 | 5 221 235 241 245 260 305 
+2518 044.Frigatebird/Frigatebird_0112_43394.jpg POS 1 | 5 218 228 241 248 260 305 
+2519 044.Frigatebird/Frigatebird_0116_43410.jpg POS 1 | 5 221 228 241 248 250 306 
+2521 044.Frigatebird/Frigatebird_0035_43420.jpg POS 1 | 221 235 245 260 305 
+2522 044.Frigatebird/Frigatebird_0021_42913.jpg POS 1 | 5 218 225 241 246 260 262 305 
+2523 044.Frigatebird/Frigatebird_0022_43457.jpg POS 1 | 2 218 225 245 260 263 
+2524 044.Frigatebird/Frigatebird_0115_42973.jpg POS 1 | 5 218 225 241 245 260 305 
+2526 044.Frigatebird/Frigatebird_0082_42989.jpg POS 1 | 5 218 235 245 260 
+2527 044.Frigatebird/Frigatebird_0084_43006.jpg POS 1 | 5 218 235 241 245 250 295 299 
+2528 044.Frigatebird/Frigatebird_0090_43511.jpg POS 1 | 5 218 228 241 245 260 305 
+2529 044.Frigatebird/Frigatebird_0070_43516.jpg POS 1 | 3 219 228 248 260 261 306 
+789 015.Lazuli_Bunting/Lazuli_Bunting_0004_14887.jpg NEG 1 | 8 222 230 244 248 249 254 294 
+1485 027.Shiny_Cowbird/Shiny_Cowbird_0037_24440.jpg NEG 0 | 7 219 233 241 245 260 305 
+2669 047.American_Goldfinch/American_Goldfinch_0049_31889.jpg NEG 0 | 8 219 236 244 245 255 300 301 
+3350 058.Pigeon_Guillemot/Pigeon_Guillemot_0109_39872.jpg NEG 0 | 1 221 228 241 245 250 295 
+3430 060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0049_45065.jpg NEG 1 | 1 221 226 244 245 254 255 261 306 
+3730 065.Slaty_backed_Gull/Slaty_Backed_Gull_0072_53314.jpg NEG 1 | 5 221 228 242 248 250 254 261 306 
+4182 072.Pomarine_Jaeger/Pomarine_Jaeger_0059_61347.jpg NEG 0 | 5 218 228 241 245 260 261 305 
+4727 081.Pied_Kingfisher/Pied_Kingfisher_0019_72659.jpg NEG 1 | 2 219 231 245 260 261 305 
+5015 086.Pacific_Loon/Pacific_Loon_0044_75467.jpg NEG 0 | 7 221 243 246 261 305 
+5040 087.Mallard/Mallard_0069_76926.jpg NEG 1 | 221 225 249 254 256 
+5085 087.Mallard/Mallard_0004_76958.jpg NEG 0 | 221 226 244 248 263 302 
+5762 099.Ovenbird/Ovenbird_0136_92859.jpg NEG 1 | 8 222 236 241 248 254 257 307 
+6254 107.Common_Raven/Common_Raven_0082_102306.jpg NEG 0 | 7 221 232 241 245 260 305 
+6288 108.White_necked_Raven/White_Necked_Raven_0055_797352.jpg NEG 1 | 221 233 241 260 305 
+6473 111.Loggerhead_Shrike/Loggerhead_Shrike_0002_105195.jpg NEG 0 | 3 219 236 245 254 
+7043 121.Grasshopper_Sparrow/Grasshopper_Sparrow_0107_116286.jpg NEG 0 | 7 219 233 250 263 
+7077 121.Grasshopper_Sparrow/Grasshopper_Sparrow_0017_115908.jpg NEG 1 | 7 222 243 245 260 263 305 308 
+7152 123.Henslow_Sparrow/Henslow_Sparrow_0081_116755.jpg NEG 1 | 8 222 230 241 245 263 305 308 
+7270 125.Lincoln_Sparrow/Lincoln_Sparrow_0108_117773.jpg NEG 1 | 8 219 236 243 247 254 295 299 305 
+7272 125.Lincoln_Sparrow/Lincoln_Sparrow_0110_117264.jpg NEG 1 | 8 219 236 243 245 254 260 263 295 299 
+7594 130.Tree_Sparrow/Tree_Sparrow_0101_124104.jpg NEG 1 | 8 222 236 248 254 261 262 263 299 307 
+7770 133.White_throated_Sparrow/White_Throated_Sparrow_0124_128801.jpg NEG 1 | 7 219 236 244 245 250 254 263 295 308 
+7934 136.Barn_Swallow/Barn_Swallow_0075_130014.jpg NEG 1 | 7 219 231 241 245 250 295 
+8096 138.Tree_Swallow/Tree_Swallow_0062_137426.jpg NEG 1 | 219 230 260 
+8774 150.Sage_Thrasher/Sage_Thrasher_0031_796455.jpg NEG 1 | 7 222 233 242 246 250 295 
+9090 155.Warbling_Vireo/Warbling_Vireo_0003_158484.jpg NEG 1 | 7 222 236 245 263 308 
+10587 180.Wilson_Warbler/Wilson_Warbler_0034_175443.jpg NEG 0 | 7 219 236 244 245 255 260 305 
+10638 181.Worm_eating_Warbler/Worm_Eating_Warbler_0006_176037.jpg NEG 1 | 7 219 236 244 248 250 263 305 308 
+10967 187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0033_796169.jpg NEG 1 | 2 219 231 241 246 260 261 300 305 
+11634 198.Rock_Wren/Rock_Wren_0027_189331.jpg NEG 1 | 2 219 233 243 245 254 260 261 263 299 308 

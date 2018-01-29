@@ -1,0 +1,5 @@
+selected birds are mostly grey
+selected birds have a striped wing pattern
+selected birds are usually small
+selected birds are sometimes medium
+other birds are sometimes large

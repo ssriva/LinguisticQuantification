@@ -1,0 +1,3 @@
+Selected birds have a dark blue color, with a shiny sheen to them.
+Selected birds have a solid colored tail, matching that of their crown.
+The Crown on the selected birds match their tail and primary color, dark blue.

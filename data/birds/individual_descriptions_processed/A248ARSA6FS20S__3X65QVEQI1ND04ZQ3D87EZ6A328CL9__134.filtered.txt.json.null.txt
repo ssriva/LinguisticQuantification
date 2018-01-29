@@ -1,0 +1,4 @@
+Selected birds are always blue.
+Selected birds have a pigeon-like shape.
+Selected birds have a cone shape bill.
+Selected birds have a medium size.

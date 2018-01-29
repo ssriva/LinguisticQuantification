@@ -1,0 +1,3 @@
+all selected birds have spotted pattern
+all selected birds have dark brown color
+Selected birds are likely to have cone-shaped bill

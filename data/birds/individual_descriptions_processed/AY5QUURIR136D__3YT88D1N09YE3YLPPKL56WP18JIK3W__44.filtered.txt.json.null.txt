@@ -1,0 +1,5 @@
+selected birds have a different belly color than its primary color
+selected birds are at least medium in size
+selected birds have a hook shaped bill
+selected birds are usually gull-like
+selected birds are sometimes hawk-like

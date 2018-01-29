@@ -1,0 +1,4 @@
+All the selected birds have duck bills
+Anything other than a duck bill is in the other birds category
+Any birds that are solid white are in the other birds category
+Any birds with green heads are in the other birds category

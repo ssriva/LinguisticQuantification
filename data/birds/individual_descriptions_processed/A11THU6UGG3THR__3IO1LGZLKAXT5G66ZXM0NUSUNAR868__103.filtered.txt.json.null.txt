@@ -1,0 +1,4 @@
+The primary color of selected birds is very often brown.
+The primary color of selected birds is sometimes grey.
+If it has a hooked (seabird) bill, it is probably an other bird.
+The size of the selected birds is usually small.

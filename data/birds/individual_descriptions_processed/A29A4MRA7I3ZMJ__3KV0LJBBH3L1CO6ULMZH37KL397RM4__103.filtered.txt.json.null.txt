@@ -1,0 +1,6 @@
+All selected birds have very short and straight bills
+All selected birds are very small
+All selected birds have solid color tails
+All selected birds have a solid color belly
+All selected birds are brown or black
+All selected birds have a crown color which matches their primary body color

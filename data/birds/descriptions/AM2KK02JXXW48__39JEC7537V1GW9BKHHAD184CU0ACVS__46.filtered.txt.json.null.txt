@@ -1,0 +1,5 @@
+All slected birds have a duck bill
+All selected birds are duck shaped
+All selected birds are brown
+Most all other birds are not duck shaped
+None of the selected birds have a green head

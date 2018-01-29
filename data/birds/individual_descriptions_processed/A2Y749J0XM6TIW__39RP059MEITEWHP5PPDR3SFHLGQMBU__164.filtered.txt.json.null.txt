@@ -1,0 +1,8 @@
+All selected birds have an all-purpose bill shape 
+The selected birds are small
+The selected birds are perch like
+The selected birds tail pattern are multi-colored
+The selected birds primary color is blue
+The selected birds belly pattern is solid
+The selected bird crown color is blue
+The selected bird wing pattern is mult-colored

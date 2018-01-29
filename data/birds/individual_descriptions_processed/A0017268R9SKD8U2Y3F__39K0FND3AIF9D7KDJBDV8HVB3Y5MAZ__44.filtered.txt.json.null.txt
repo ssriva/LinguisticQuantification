@@ -1,0 +1,9 @@
+selected birds are almost always primarily black
+selected birds almost always have a hooked seabird bill
+other birds almost always have a cone bill shape
+other birds are almost always small
+selected birds almost always have a black crown
+selected birds almost always are gull-like
+selected birds are almost always large
+selected birds almost always have solid wings
+selected birds almost always have a solid tail

@@ -1,0 +1,8 @@
+The selected birds are almost always large.
+The selected birds tend to be black.
+If the bird has a cone-shaped bill, it is probably an other bird.
+If the bird is gull-like, it is most likely a selected bird.
+If the wing pattern is not solid, then it's probably an other bird.
+Most of the selected birds have a black crown.
+If the tail pattern is not solid, chances are that the bird is an other bird.
+If the bird is sandpiper like, it is most likely an other bird.

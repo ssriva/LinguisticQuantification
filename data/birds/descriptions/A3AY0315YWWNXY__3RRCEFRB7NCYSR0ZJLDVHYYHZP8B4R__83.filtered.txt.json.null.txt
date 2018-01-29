@@ -1,0 +1,8 @@
+Selected birds have large bill
+Selected birds' bill has an orange hue to it
+Selected birds are larger that average bird
+Selected birds have blue wings
+Selected birds have a blue tail
+Selected birds are narrow/tall
+Selected birds have a white belly
+Selected birds have a brown outlined belly

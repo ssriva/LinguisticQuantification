@@ -1,0 +1,60 @@
+9591 164.Cerulean_Warbler/Cerulean_Warbler_0019_797186.jpg POS 0 | 7 222 244 248 249 261 294 
+9593 164.Cerulean_Warbler/Cerulean_Warbler_0022_797189.jpg POS 0 | 7 221 242 247 308 
+9595 164.Cerulean_Warbler/Cerulean_Warbler_0088_797194.jpg POS 0 | 7 222 236 245 260 261 299 305 
+9597 164.Cerulean_Warbler/Cerulean_Warbler_0093_797196.jpg POS 0 | 7 219 236 245 254 261 299 
+9598 164.Cerulean_Warbler/Cerulean_Warbler_0053_797197.jpg POS 0 | 222 229 249 254 260 
+9599 164.Cerulean_Warbler/Cerulean_Warbler_0017_797198.jpg POS 0 | 7 222 236 244 245 249 260 261 294 
+9600 164.Cerulean_Warbler/Cerulean_Warbler_0004_797199.jpg POS 0 | 7 219 229 242 248 249 260 261 294 
+9602 164.Cerulean_Warbler/Cerulean_Warbler_0009_797201.jpg POS 0 | 7 222 236 245 255 294 299 
+9604 164.Cerulean_Warbler/Cerulean_Warbler_0043_797203.jpg POS 0 | 219 236 249 
+9606 164.Cerulean_Warbler/Cerulean_Warbler_0005_797206.jpg POS 0 | 8 222 226 244 248 249 254 260 263 294 305 
+9610 164.Cerulean_Warbler/Cerulean_Warbler_0037_797212.jpg POS 0 | 7 222 236 243 249 250 260 261 294 
+9611 164.Cerulean_Warbler/Cerulean_Warbler_0007_797215.jpg POS 0 | 3 219 231 242 248 262 299 
+9613 164.Cerulean_Warbler/Cerulean_Warbler_0067_797220.jpg POS 0 | 7 221 230 241 254 294 
+9614 164.Cerulean_Warbler/Cerulean_Warbler_0046_797222.jpg POS 0 | 7 219 228 244 245 249 261 294 
+9615 164.Cerulean_Warbler/Cerulean_Warbler_0042_797223.jpg POS 0 | 8 222 236 241 245 254 260 261 299 306 
+9618 164.Cerulean_Warbler/Cerulean_Warbler_0075_797233.jpg POS 0 | 7 222 236 244 245 249 261 294 
+9619 164.Cerulean_Warbler/Cerulean_Warbler_0054_797235.jpg POS 0 | 7 219 236 244 245 249 254 261 294 299 
+9623 164.Cerulean_Warbler/Cerulean_Warbler_0024_163406.jpg POS 0 | 7 222 236 244 248 249 260 261 294 
+9628 164.Cerulean_Warbler/Cerulean_Warbler_0092_163455.jpg POS 0 | 7 222 229 243 245 249 254 260 299 
+9631 164.Cerulean_Warbler/Cerulean_Warbler_0040_163219.jpg POS 0 | 7 222 236 245 249 261 294 
+9633 164.Cerulean_Warbler/Cerulean_Warbler_0057_163227.jpg POS 0 | 7 219 231 241 245 249 294 
+9634 164.Cerulean_Warbler/Cerulean_Warbler_0051_163244.jpg POS 0 | 7 219 236 241 245 249 260 261 294 
+9636 164.Cerulean_Warbler/Cerulean_Warbler_0016_163265.jpg POS 0 | 7 222 236 241 248 254 261 299 
+9637 164.Cerulean_Warbler/Cerulean_Warbler_0055_163524.jpg POS 0 | 7 218 236 242 246 262 
+9640 164.Cerulean_Warbler/Cerulean_Warbler_0041_163535.jpg POS 0 | 8 222 244 248 249 254 263 299 308 
+9641 164.Cerulean_Warbler/Cerulean_Warbler_0002_797219.jpg POS 0 | 7 219 236 244 247 255 299 
+9643 164.Cerulean_Warbler/Cerulean_Warbler_0028_163302.jpg POS 0 | 7 222 236 243 248 254 261 
+9645 164.Cerulean_Warbler/Cerulean_Warbler_0025_797232.jpg POS 0 | 7 219 236 245 249 260 261 294 302 
+9648 164.Cerulean_Warbler/Cerulean_Warbler_0081_797179.jpg POS 0 | 7 222 236 244 245 249 294 
+9649 164.Cerulean_Warbler/Cerulean_Warbler_0082_797180.jpg POS 0 | 8 222 236 241 245 249 261 294 
+789 015.Lazuli_Bunting/Lazuli_Bunting_0004_14887.jpg NEG 1 | 8 222 230 244 248 249 254 294 
+1485 027.Shiny_Cowbird/Shiny_Cowbird_0037_24440.jpg NEG 0 | 7 219 233 241 245 260 305 
+2669 047.American_Goldfinch/American_Goldfinch_0049_31889.jpg NEG 0 | 8 219 236 244 245 255 300 301 
+3350 058.Pigeon_Guillemot/Pigeon_Guillemot_0109_39872.jpg NEG 0 | 1 221 228 241 245 250 295 
+3430 060.Glaucous_winged_Gull/Glaucous_Winged_Gull_0049_45065.jpg NEG 1 | 1 221 226 244 245 254 255 261 306 
+3730 065.Slaty_backed_Gull/Slaty_Backed_Gull_0072_53314.jpg NEG 1 | 5 221 228 242 248 250 254 261 306 
+4182 072.Pomarine_Jaeger/Pomarine_Jaeger_0059_61347.jpg NEG 0 | 5 218 228 241 245 260 261 305 
+4727 081.Pied_Kingfisher/Pied_Kingfisher_0019_72659.jpg NEG 1 | 2 219 231 245 260 261 305 
+5015 086.Pacific_Loon/Pacific_Loon_0044_75467.jpg NEG 0 | 7 221 243 246 261 305 
+5040 087.Mallard/Mallard_0069_76926.jpg NEG 1 | 221 225 249 254 256 
+5085 087.Mallard/Mallard_0004_76958.jpg NEG 0 | 221 226 244 248 263 302 
+5762 099.Ovenbird/Ovenbird_0136_92859.jpg NEG 1 | 8 222 236 241 248 254 257 307 
+6254 107.Common_Raven/Common_Raven_0082_102306.jpg NEG 0 | 7 221 232 241 245 260 305 
+6288 108.White_necked_Raven/White_Necked_Raven_0055_797352.jpg NEG 1 | 221 233 241 260 305 
+6473 111.Loggerhead_Shrike/Loggerhead_Shrike_0002_105195.jpg NEG 0 | 3 219 236 245 254 
+7043 121.Grasshopper_Sparrow/Grasshopper_Sparrow_0107_116286.jpg NEG 0 | 7 219 233 250 263 
+7077 121.Grasshopper_Sparrow/Grasshopper_Sparrow_0017_115908.jpg NEG 1 | 7 222 243 245 260 263 305 308 
+7152 123.Henslow_Sparrow/Henslow_Sparrow_0081_116755.jpg NEG 1 | 8 222 230 241 245 263 305 308 
+7270 125.Lincoln_Sparrow/Lincoln_Sparrow_0108_117773.jpg NEG 1 | 8 219 236 243 247 254 295 299 305 
+7272 125.Lincoln_Sparrow/Lincoln_Sparrow_0110_117264.jpg NEG 1 | 8 219 236 243 245 254 260 263 295 299 
+7594 130.Tree_Sparrow/Tree_Sparrow_0101_124104.jpg NEG 1 | 8 222 236 248 254 261 262 263 299 307 
+7770 133.White_throated_Sparrow/White_Throated_Sparrow_0124_128801.jpg NEG 1 | 7 219 236 244 245 250 254 263 295 308 
+7934 136.Barn_Swallow/Barn_Swallow_0075_130014.jpg NEG 1 | 7 219 231 241 245 250 295 
+8096 138.Tree_Swallow/Tree_Swallow_0062_137426.jpg NEG 1 | 219 230 260 
+8774 150.Sage_Thrasher/Sage_Thrasher_0031_796455.jpg NEG 1 | 7 222 233 242 246 250 295 
+9090 155.Warbling_Vireo/Warbling_Vireo_0003_158484.jpg NEG 1 | 7 222 236 245 263 308 
+10587 180.Wilson_Warbler/Wilson_Warbler_0034_175443.jpg NEG 0 | 7 219 236 244 245 255 260 305 
+10638 181.Worm_eating_Warbler/Worm_Eating_Warbler_0006_176037.jpg NEG 1 | 7 219 236 244 248 250 263 305 308 
+10967 187.American_Three_toed_Woodpecker/American_Three_Toed_Woodpecker_0033_796169.jpg NEG 1 | 2 219 231 241 246 260 261 300 305 
+11634 198.Rock_Wren/Rock_Wren_0027_189331.jpg NEG 1 | 2 219 233 243 245 254 260 261 263 299 308 

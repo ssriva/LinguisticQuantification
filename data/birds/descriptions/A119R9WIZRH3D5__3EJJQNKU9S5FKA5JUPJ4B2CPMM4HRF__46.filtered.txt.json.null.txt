@@ -1,0 +1,4 @@
+The primary color of all selected birds is brown.
+If the bird has a dagger shaped bill, it is not a selected bird.
+If the bird has a green crown, it is not a selected bird
+All selected birds have a duck-like shape.

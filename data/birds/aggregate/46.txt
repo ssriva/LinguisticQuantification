@@ -1,0 +1,64 @@
+The primary color of all selected birds is brown.
+If the bird has a dagger shaped bill, it is not a selected bird.
+If the bird has a green crown, it is not a selected bird
+All selected birds have a duck-like shape.
+Flat bill like that of a duck
+Large sized bird
+It has a duck like shape
+The tail pattern is solid black
+Belly pattern is spotted drab brown
+Primary color is brown
+Crown color is brown
+Wing pattern is spotted brown
+The bills are mostly cone shaped
+They are large
+They are duck like
+The tails are mmulti-colored
+They have an oval belly
+Their primary color is mostly brown
+Their crown color is mostly brown
+Their wing pattern is solid.
+All the selected birds have duck bills
+Anything other than a duck bill is in the other birds category
+Any birds that are solid white are in the other birds category
+Any birds with green heads are in the other birds category
+All the selected birds have duck bills
+Most of the other birds have non duck bills
+All the selected birds are medium size
+All birds with solid green heads are in the other birds category.
+All small birds are in the other birds category.
+All white birds are in the other birds category.
+Has a large, long bill
+Size of a duck
+These birds have all purpose beaks.
+These birds are usually large.
+These birds are of a duck-like shape.
+These birds usually have some tan-brown coloring.
+Selected birds are almost always brown in color.
+These birds almost always have a black tipped wing.
+The selected birds are of a medium size.
+These birds often have a long and straight bill.
+All slected birds have a duck bill
+All selected birds are duck shaped
+All selected birds are brown
+Most all other birds are not duck shaped
+None of the selected birds have a green head
+quite large, dagger bill
+medium to large size bird
+duck-like 
+Solid black color 
+multi-solid color under belly from white to gray to brown
+Mostly brown, with specks of white and gray
+Mostly brown to gray
+multi-colored feathers with mostly brown and gray feathers
+is general use.
+is medium.
+is duck-like.
+is striped.
+is solid.
+is brown.
+is brown.
+is spotted.
+Usually the bird is duck shaped
+Generally the birds are a medium size
+Most of the time the bird's primary color is brown or gray

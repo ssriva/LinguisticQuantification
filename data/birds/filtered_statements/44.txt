@@ -1,0 +1,60 @@
+selected birds are almost always primarily black
+selected birds almost always have a hooked seabird bill
+other birds almost always have a cone bill shape
+selected birds almost always have a black crown
+selected birds almost always are gull-like
+selected birds are almost always large
+selected birds almost always have solid wings
+selected birds almost always have a solid tail
+Selected birds always have longer bills
+Selected birds are the only birds that occasionally have bright red bellies
+Selected birds are typically black
+Other birds are usually smaller
+All selected birds have a hooked bill
+All selected birds have black primary color, mainly.
+All birds have a white or red chest
+All of the birds definitely have a hooked bill
+More than likely, the belly is cream or white, occasionally red
+Their bodies are black
+They are, for the most part, medium sized birds
+In most instances, the crown is black, but some have cream crown
+Body is black except belly.
+Belly is almost always white.
+Neck by belly is sometimes red, sometimes distended.
+Bill is long with downward hook at end.
+Tail is long with few long-trailing feathers.
+Crown is round and smooth
+Crown almost always same color as back.
+many selected birds have a hooked bill
+The primary color of the selected birds is usually black
+The selected birds tend to have wing pattern of solid black
+The selected birds had a belly color that was different the rest of their bodies
+the selected birds were mostly large.
+If the bird has a bright red belly pattern, it is most likely a selected bird.
+If the bird's primary color is brown, it is most likely not a selected bird.
+Most of the selected birds have a black primary color.
+Most of the selected birds have a gull-like shape.
+Primary color is almost always black
+The bill shape is almost always hooked (seabird).
+Tail pattern is always solid.
+Selected birds are always at least of medium size, generally larger than that.
+Wing pattern is always solid.
+Selected birds tend to be gull-like.
+The selected birds are almost always large.
+The selected birds tend to be black.
+If the bird has a cone-shaped bill, it is probably an other bird.
+If the bird is gull-like, it is most likely a selected bird.
+If the wing pattern is not solid, then it's probably an other bird.
+Most of the selected birds have a black crown.
+If the tail pattern is not solid, chances are that the bird is an other bird.
+If the bird is sandpiper like, it is most likely an other bird.
+Selected birds have a hooked bill shape
+Selected birds are at least medium in size
+Selected birds sometimes have a red belly
+Selected birds are gull-like
+Selected birds are mostly black
+selected birds have a different belly color than its primary color
+selected birds are at least medium in size
+selected birds have a hook shaped bill
+selected birds are usually gull-like
+selected birds are sometimes hawk-like

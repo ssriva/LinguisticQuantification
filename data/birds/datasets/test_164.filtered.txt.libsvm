@@ -1,0 +1,60 @@
+select all-purpose:1 small:1 tail_multi:1 belly_multi:1 primary_blue:1 primary_white:1 crown_blue:1
+select all-purpose:1 medium:1 tail_spot:1 belly_stripe:1 crown_buff:1
+select all-purpose:1 small:1 perching:1 belly_solid:1 primary_black:1 primary_white:1 crown_grey:1 crown_black:1
+select all-purpose:1 small:1 perching:1 belly_solid:1 primary_grey:1 primary_white:1 crown_grey:1
+select small:1 hummingbird:1 primary_blue:1 primary_grey:1 primary_black:1
+select all-purpose:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_blue:1 primary_black:1 primary_white:1 crown_blue:1
+select all-purpose:1 small:1 hummingbird:1 tail_spot:1 belly_multi:1 primary_blue:1 primary_black:1 primary_white:1 crown_blue:1
+select all-purpose:1 small:1 perching:1 belly_solid:1 primary_yellow:1 crown_blue:1 crown_grey:1
+select small:1 perching:1 primary_blue:1
+select cone:1 small:1 duck:1 tail_multi:1 belly_multi:1 primary_blue:1 primary_grey:1 primary_black:1 primary_buff:1 crown_blue:1 crown_black:1
+select all-purpose:1 small:1 perching:1 tail_stripe:1 primary_blue:1 primary_brown:1 primary_black:1 primary_white:1 crown_blue:1
+select hooked:1 small:1 tree-clinging:1 tail_spot:1 belly_multi:1 primary_red:1 crown_grey:1
+select all-purpose:1 medium:1 pigeon:1 tail_solid:1 primary_grey:1 crown_blue:1
+select all-purpose:1 small:1 gull:1 tail_multi:1 belly_solid:1 primary_blue:1 primary_white:1 crown_blue:1
+select cone:1 small:1 perching:1 tail_solid:1 belly_solid:1 primary_grey:1 primary_black:1 primary_white:1 crown_grey:1 crown_white:1
+select all-purpose:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_blue:1 primary_white:1 crown_blue:1
+select all-purpose:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_blue:1 primary_grey:1 primary_white:1 crown_blue:1 crown_grey:1
+select all-purpose:1 small:1 perching:1 tail_multi:1 belly_multi:1 primary_blue:1 primary_black:1 primary_white:1 crown_blue:1
+select all-purpose:1 small:1 hummingbird:1 tail_stripe:1 belly_solid:1 primary_blue:1 primary_grey:1 primary_black:1 crown_grey:1
+select all-purpose:1 small:1 perching:1 belly_solid:1 primary_blue:1 primary_white:1 crown_blue:1
+select all-purpose:1 small:1 tree-clinging:1 tail_solid:1 belly_solid:1 primary_blue:1 crown_blue:1
+select all-purpose:1 small:1 perching:1 tail_solid:1 belly_solid:1 primary_blue:1 primary_black:1 primary_white:1 crown_blue:1
+select all-purpose:1 small:1 perching:1 tail_solid:1 belly_multi:1 primary_grey:1 primary_white:1 crown_grey:1
+select all-purpose:1 large:1 perching:1 tail_spot:1 belly_spot:1 primary_red:1
+select cone:1 small:1 tail_multi:1 belly_multi:1 primary_blue:1 primary_grey:1 primary_buff:1 crown_grey:1 crown_buff:1
+select all-purpose:1 small:1 perching:1 tail_multi:1 belly_stripe:1 primary_yellow:1 crown_grey:1
+select all-purpose:1 small:1 perching:1 tail_stripe:1 belly_multi:1 primary_grey:1 primary_white:1
+select all-purpose:1 small:1 perching:1 belly_solid:1 primary_blue:1 primary_black:1 primary_white:1 crown_blue:1 crown_green:1
+select all-purpose:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_blue:1 crown_blue:1
+select cone:1 small:1 perching:1 tail_solid:1 belly_solid:1 primary_blue:1 primary_white:1 crown_blue:1
+non_select cone:1 small:1 pigeon:1 tail_multi:1 belly_multi:1 primary_blue:1 primary_grey:1 crown_blue:1
+non_select all-purpose:1 small:1 sandpiper:1 tail_solid:1 belly_solid:1 primary_black:1 crown_black:1
+non_select cone:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_yellow:1 crown_yellow:1 crown_olive:1
+non_select curved:1 medium:1 gull:1 tail_solid:1 belly_solid:1 primary_brown:1 crown_brown:1
+non_select curved:1 medium:1 duck:1 tail_multi:1 belly_solid:1 primary_grey:1 primary_yellow:1 primary_white:1 crown_white:1
+non_select hooked_seabird:1 medium:1 gull:1 tail_spot:1 belly_multi:1 primary_brown:1 primary_grey:1 primary_white:1 crown_white:1
+non_select hooked_seabird:1 large:1 gull:1 tail_solid:1 belly_solid:1 primary_black:1 primary_white:1 crown_black:1
+non_select dagger:1 small:1 tree-clinging:1 belly_solid:1 primary_black:1 primary_white:1 crown_black:1
+non_select all-purpose:1 medium:1 tail_stripe:1 belly_spot:1 primary_white:1 crown_black:1
+non_select medium:1 long-legged:1 primary_blue:1 primary_grey:1 primary_olive:1
+non_select medium:1 duck:1 tail_multi:1 belly_multi:1 primary_buff:1 crown_green:1
+non_select cone:1 small:1 perching:1 tail_solid:1 belly_multi:1 primary_grey:1 primary_green:1 crown_red:1
+non_select all-purpose:1 medium:1 hawk-like:1 tail_solid:1 belly_solid:1 primary_black:1 crown_black:1
+non_select medium:1 sandpiper:1 tail_solid:1 primary_black:1 crown_black:1
+non_select hooked:1 small:1 perching:1 belly_solid:1 primary_grey:1
+non_select all-purpose:1 small:1 sandpiper:1 primary_brown:1 primary_buff:1
+non_select all-purpose:1 small:1 tail_stripe:1 belly_solid:1 primary_black:1 primary_buff:1 crown_black:1 crown_buff:1
+non_select cone:1 small:1 pigeon:1 tail_solid:1 belly_solid:1 primary_buff:1 crown_black:1 crown_buff:1
+non_select cone:1 small:1 perching:1 tail_stripe:1 belly_stripe:1 primary_grey:1 crown_brown:1 crown_grey:1 crown_black:1
+non_select cone:1 small:1 perching:1 tail_stripe:1 belly_solid:1 primary_grey:1 primary_black:1 primary_buff:1 crown_brown:1 crown_grey:1
+non_select cone:1 small:1 perching:1 belly_multi:1 primary_grey:1 primary_white:1 primary_red:1 primary_buff:1 crown_grey:1 crown_red:1
+non_select all-purpose:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_brown:1 primary_grey:1 primary_buff:1 crown_brown:1 crown_buff:1
+non_select all-purpose:1 small:1 tree-clinging:1 tail_solid:1 belly_solid:1 primary_brown:1 crown_brown:1
+non_select small:1 pigeon:1 primary_black:1
+non_select all-purpose:1 small:1 sandpiper:1 tail_spot:1 belly_spot:1 primary_brown:1 crown_brown:1
+non_select all-purpose:1 small:1 perching:1 belly_solid:1 primary_buff:1 crown_buff:1
+non_select all-purpose:1 small:1 perching:1 tail_multi:1 belly_solid:1 primary_yellow:1 primary_black:1 crown_black:1
+non_select all-purpose:1 small:1 perching:1 tail_multi:1 belly_multi:1 primary_brown:1 primary_buff:1 crown_black:1 crown_buff:1
+non_select dagger:1 small:1 tree-clinging:1 tail_solid:1 belly_spot:1 primary_black:1 primary_white:1 crown_yellow:1 crown_black:1
+non_select dagger:1 small:1 sandpiper:1 tail_stripe:1 belly_solid:1 primary_grey:1 primary_black:1 primary_white:1 primary_buff:1 crown_grey:1 crown_buff:1

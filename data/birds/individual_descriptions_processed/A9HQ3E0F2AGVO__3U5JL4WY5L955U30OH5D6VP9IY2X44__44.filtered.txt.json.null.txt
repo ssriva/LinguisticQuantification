@@ -1,0 +1,4 @@
+If the bird has a bright red belly pattern, it is most likely a selected bird.
+If the bird's primary color is brown, it is most likely not a selected bird.
+Most of the selected birds have a black primary color.
+Most of the selected birds have a gull-like shape.

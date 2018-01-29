@@ -1,0 +1,5 @@
+If the bird has any bright coloring, it is probably not a selected bird.
+Selected birds are generally small.
+If the bird has a stripe on its crown, it is probably not a selected bird.
+If the bird's color is speckled brown, it is probably not a selected bird.
+Most of the selected birds have a different belly pattern than overall color.

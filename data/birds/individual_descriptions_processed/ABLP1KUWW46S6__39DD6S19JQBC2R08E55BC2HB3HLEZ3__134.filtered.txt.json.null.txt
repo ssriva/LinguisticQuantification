@@ -1,0 +1,3 @@
+selected birds are medium
+selected birds are all blue
+other birds are usually brown

@@ -1,0 +1,5 @@
+Selected birds have a hooked bill shape
+Selected birds are at least medium in size
+Selected birds sometimes have a red belly
+Selected birds are gull-like
+Selected birds are mostly black

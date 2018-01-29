@@ -1,0 +1,6 @@
+All the selected birds have long bills.
+All the selected birds have pointy bills.
+All the selected birds have blue-green wings
+All the selected birds have a brown stripe on their wings
+All the selected birds have blue-green tails.
+All the selected birds have a white tuft under their bills.

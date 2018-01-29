@@ -1,0 +1,6 @@
+Primary color is almost always black
+The bill shape is almost always hooked (seabird).
+Tail pattern is always solid.
+Selected birds are always at least of medium size, generally larger than that.
+Wing pattern is always solid.
+Selected birds tend to be gull-like.
