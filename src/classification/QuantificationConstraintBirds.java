@@ -47,7 +47,7 @@ public class QuantificationConstraintBirds {
 		System.out.println("QExp: "+this.quantifierExpression+" corresponds to prob "+p);
 		
 
-		
+		/**/
 		if(this.type.equals("XY")) {
 			
 			int found = 0;
@@ -65,7 +65,7 @@ public class QuantificationConstraintBirds {
 			p = p * py / px; 
 			System.out.println("px = "+px+"\npy = "+py+" \np(y|x) = "+p);
 			p = Math.min(p, 1.0);
-		}
+		}/**/
 		
 		p = this.labelNegation ? 1.0 - p : p;
 		probs.put(label, p);

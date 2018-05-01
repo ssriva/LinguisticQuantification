@@ -25,7 +25,7 @@ public class Evaluator {
 		}
 	}
 
-	public static void evaluateForClassLabel(Trial[] trials, String label){
+	public static double evaluateForClassLabel(Trial[] trials, String label){
 
 		double avg_F1 = 0.0, avg_P = 0.0, avg_R =0.0, avg_Accu =0.0;
 
@@ -47,6 +47,7 @@ public class Evaluator {
 		System.out.println("Avg Precision: "+ avg_P);
 		System.out.println("Avg Recall: "+ avg_R);
 
+		return avg_Accu;
 	}
 }
 

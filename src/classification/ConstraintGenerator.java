@@ -43,7 +43,8 @@ public class ConstraintGenerator {
 			//instances.getDataAlphabet().lookupIndex("");
 			for(String line:lines){
 				QuantificationConstraint constraint = parseLineToConstraint(line, instances);
-				if(!constraint.getQuantifierExpression().equals(QuantifierExpressions.DEFAULT_QUANTIFIER_EXP)){
+				if(constraint !=null && !constraint.getQuantifierExpression().equals(QuantifierExpressions.DEFAULT_QUANTIFIER_EXP)){
+					//if(!constraint.getType().equals("YX"))
 					constraintHashMap.put((String) instances.getDataAlphabet().lookupObject(constraint.getxIdx()), constraint.validateAndSetProbabilities());
 				}
 			}	
@@ -90,6 +91,13 @@ public class ConstraintGenerator {
 			}
 		}
 
+		
+		if(!foundLabel) {
+			return null;
+			//foundLabelIdx = 0;
+			//foundLabelAtToken = 0;
+		}
+		
 		//System.out.println("Label mentioned in constraint: "+line+" is :"+targetAlphabet.lookupObject(foundLabelIdx)+", corresponding to index: "+foundLabelIdx);
 
 		//2.) Figure out quantifier expression, if any
@@ -141,6 +149,10 @@ public class ConstraintGenerator {
 			if(foundFeature){
 				break;
 			}
+		}
+		
+		if(!foundFeature) {
+			return null;
 		}
 
 		String featureString = (String) dataAlphabet.lookupObject(foundFeatureIdx);

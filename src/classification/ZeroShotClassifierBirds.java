@@ -27,7 +27,7 @@ public class ZeroShotClassifierBirds {
 		
 		//Load data instances from file
 		//InstanceList origInstances = MalletUtils.getInstancesFromTextFile("/Users/shashans/Work/tools/mallet-2.0.8/sample-data/numeric/zoo.txt", true);
-		InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile("data/birds/datasets/46.libsvm");
+		InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile("data/birds/datasets/164.libsvm");
 		//InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile("data/shapes/datasets/features.alpha__0_1.dataset/features.alpha__0_1.160.dataset.all.instances.libsvm");
 		//InstanceList origInstances = MalletUtils.getInstancesFromLibSVMFile(args[0]);
 
@@ -50,10 +50,10 @@ public class ZeroShotClassifierBirds {
 			
 			
 			//Define training algorithm
-			//MaxEntTrainer trainer = new MaxEntTrainer();
-			/**/
+			MaxEntTrainer trainer = new MaxEntTrainer();
+			/*
 			MaxEntPRTrainer trainer = new MaxEntPRTrainer();
-			String constraintFile = "data/birds/filtered_statements_processed/46.txt.filtered";
+			String constraintFile = "data/birds/filtered_statements_processed/164.txt.filtered";
 			//String constraintFile = "data/birds/individual_descriptions_processed/AOIYMAKATLETX__3Q5C1WP23N1FBCM7VT3GGERMDFH15K__46.filtered.txt.json.null.txt";
 			HashMap<String, HashMap<String, Double>> constraintHashMap = ConstraintGeneratorBirds.parseFileToConstraints(instances,constraintFile);
 			trainer.setConstraintsHashMap(constraintHashMap);
@@ -62,11 +62,11 @@ public class ZeroShotClassifierBirds {
 			trainer.setPGaussianPriorVariance(0.1);
 			trainer.setQGaussianPriorVariance(1000);
 			trainer.setUseValues(false);
-			/**/
+			*/
 
-			//runExperimentSplit(instances, trainer, 100, 0.41, classLabel);
+			runExperimentSplit(instances, trainer, 100, 0.10, classLabel);
 			//runExperimentSplit(origInstances, trainer, 1, 0.7, classLabel);
-			runExperimentSplitTrainCompleteData(instances, trainer, 1, 0.0, classLabel);
+			//runExperimentSplitTrainCompleteData(instances, trainer, 1, 0.0, classLabel);
 			
 			break;
 		}
